@@ -5,7 +5,7 @@ include("inc/header.php");
 	<div class="row">
 		<div class="col-md-12 col-sm-12">
 			<h1>Abstract Submission Guidelines</h1>
-			<p class="text-secondary">Abstracts should be sent online following the link <a href="http://www.climatechange-ises.com">http://www.climatechange-ises.com</a> on specific format. Please indicate the “abstract and corresponding author name” in the subject line. Deadline for receipt of abstracts (for oral and poster presentation) is September 30, 2022. Selected abstracts will be invited for full-length papers to be published, after peer review, in ISI-listed journal Pakistan Journal of Agricultural Sciences in a climate change dedicated issue.</p>
+			<p class="text-secondary">Abstracts should be sent online following the link on specific format. Please indicate the “abstract and corresponding author name” in the subject line. Deadline for receipt of abstracts (for oral and poster presentation) is September 30, 2022. Selected abstracts will be invited for full-length papers to be published, after peer review, in ISI-listed journal Pakistan Journal of Agricultural Sciences in a climate change dedicated issue.</p>
 		</div>
 	</div>
 </div>

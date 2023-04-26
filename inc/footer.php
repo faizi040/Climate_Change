@@ -21,7 +21,7 @@
 </section>
 
 <div class="copyright text-center py-2">
-<p class="mt-2">Copyright &copy;2022 All rights reserved | Developed by Micrologix</p>
+<p class="mt-2">Copyright &copy;2022 All rights reserved | Developed by Faizi040</p>
 </div>
 
 
